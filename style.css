@@ -1,0 +1,59 @@
+.parallax {
+  
+  background-image: url(https://media.wired.com/photos/5a729f25234aa351bd9b5a75/master/pass/Guides_GlobalWarming.jpg);
+
+  min-height: 300px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {background-color:#b3ecff}
+h1 {color:#00cccc; 
+    font-family:Impact, Charcoal, sans-serif; 
+    font-size:4em;
+    text-align:center;
+    }
+
+h2 {color:#000099}
+
+h3 {color:white}
+
+ul {
+  list-style-type: none; 
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #00cccc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+#up {background-image: url(https://davidsuzuki.org/wp-content/uploads/2017/10/top-10-ways-to-help-fight-climate-change.jpg)}
+
+#fact {background-image: url(https://www.nationofchange.org/wp-content/uploads/2018/11/Broadcast_TV_Networks_and_Climate_Change.png)}
+
+#en {background-image: url(https://tedideas.files.wordpress.com/2017/11/featured_art_climate_change_istock.jpg?w=750)}
+
+#glac {background-image: url(http://science.sciencemag.org/content/sci/356/6337/495.1/F1.large.jpg?width=800&height=600&carousel=1)}
+
+#clime {background-image: url(https://www.pnas.org/content/pnas/115/33/8232/F1.large.jpg)}
+
+
+
